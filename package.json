@@ -1,0 +1,26 @@
+{
+  "name": "@laimi7/vite-plugin-cross-origin-isolation",
+  "version": "0.1.8",
+  "type": "module",
+  "description": "A vite plugin for enabling cross-origin-isolation for dev server and preview.",
+  "main": "src/vite-plugins-cross-origin-isolation.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nn1k4/vite-plugin-cross-origin-isolation.git"
+  },
+  "keywords": ["Vite", "SharedArrayBuffer", "CrossOriginIsolation", "COOP", "COEP", "CrossOriginIsolated"],
+  "author": "Laimis Ilens (Laimi7)", 
+  "contributors": [
+    {
+      "name": "Laimis Ilens (Laimi7)",
+      "url": "https://github.com/nn1k4"
+    },
+    {
+      "name": "Qichao Lan (chaosprint)",
+      "url": "https://github.com/chaosprint"
+    }],
+  "license": "MIT"
+}
